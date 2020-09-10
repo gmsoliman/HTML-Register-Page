@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(100, 183, 255);
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    position: fixed;
+    background-color: white;
+    text-align: right;
+    padding: 15px 15px 10px 15px;
+    width: 100%;
+}
+
+#navbutton{
+    
+}
+
+.form{
+    position: absolute;
+    top: 25%;
+    right: 50%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px 25px;
+    box-shadow: 4px 4px 12px darkgray;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#submitbutton{
+    text-align: center;
+    background-color: mediumslateblue;
+    width: 100%;
+    border-style: none;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+p{
+    border-color: gray;
+}
